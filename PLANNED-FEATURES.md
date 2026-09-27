@@ -1,4 +1,7 @@
-# GoreeCloud Reader — Feature Roadmap
+# GoreeCloud Reader — Planned Features
+
+> **Authority:** Repository-native planned-feature record  
+> **Migration:** Replaces the retired `FEATURE-ROADMAP.md` / Google Drive roadmap controls. GitHub is the sole feature-state authority.
 
 ## Roadmap Status
 
